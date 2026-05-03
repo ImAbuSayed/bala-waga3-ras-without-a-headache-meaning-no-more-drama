@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبي لا تتركني في هذا الظلام
+> حبيبي لا
+> أبحث عن طيفك في كل منام
+> روحي تنادي وعيني لا تنام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

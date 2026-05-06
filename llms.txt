@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bala-waga3-ras-without-a-headache-meaning-no-more-drama/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Bala Waga3 Ras – Without a headache. (Meaning: No more drama)](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
